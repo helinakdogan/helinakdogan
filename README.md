@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi there! My name is Helin. I'm a computer science student who is eager to learn new technologies<br>🌱 I’m currently  learning web development
+🔭 Hi there! My name is Helin. I'm a computer science student who is eager to learn new technologies<br>🌱 I’m currently interested in web development, web3.0 and blockchain technologies
 
 
 ## 🌐 Socials:
