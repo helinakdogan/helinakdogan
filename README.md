@@ -1,8 +1,8 @@
-# about me
+# About me
 🟣 Hi there! My name is Helin. I'm a computer science student who is eager to learn new technologies<br>🟣 I’m currently learning front-end web development.<br>🟣 Also, I'm highly interested in web3.0 and blockchain technologies.
 
 
-# socials
+# Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/helinnakdogan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helinakdogan) 
 
 
