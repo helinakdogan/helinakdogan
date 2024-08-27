@@ -1,6 +1,5 @@
 ## 👩‍💻 About Me
 🔹 Hi there! I'm Helin, a computer engineering student with a focus on web development and machine learning.<br>
-🔹 I'm excited about the potential of web 3.0 and blockchain.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/helinnakdogan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helinakdogan) 
