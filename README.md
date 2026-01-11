@@ -1,8 +1,6 @@
-Hi, My name is Zelal Helin Akdoğan ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-============================================================================================================================================
+# Hi, My name is Zelal Helin Akdoğan ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
-AI Engineer & Full Stack Developer
-----------------------------------
+### AI Engineer & Full Stack Developer
 
 I am a fourth-year Computer Engineering student and Full Stack Developer specializing in web and mobile applications, with expertise in integrating AI-powered solutions.
 
