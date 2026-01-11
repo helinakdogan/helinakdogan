@@ -1,5 +1,5 @@
 ## 👩‍💻 About Me
-🔹 Hi there! I'm Helin, a computer engineering student with a focus on web development and machine learning.<br>
+🔹 Hi there! I'm Helin. I am a fourth-year Computer Engineering student and Full Stack Developer specializing in web and mobile applications, with expertise in integrating AI-powered solutions.<br>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/helinnakdogan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helinakdogan) 
