@@ -1,16 +1,29 @@
-# Hi, My name is Helin Akdoğan
+<div align="center">
 
-## AI Engineer & Full Stack Developer
+# Helin Akdoğan
+### AI Engineer · Full Stack Developer
 
-I am a fourth-year Computer Engineering student and Full Stack Developer specializing in web and mobile applications, with expertise in integrating AI-powered solutions.
+Building AI products and intelligent user experiences.
 
-*  I'm based in İstanbul, Türkiye
-*  See my portfolio at [My Portfolio Website](http://helinakdogan-portfolio.vercel.app)
-*  You can contact me at [akdoganhelin@gmail.com](mailto:akdoganhelin@gmail.com)
-*  I'm currently working on [Agent Magnet](http://www.agentmagnet.app)
+<br/>
 
-### GitHub Stats
+<a href="https://www.agentmagnet.app">
+  <img src="https://img.shields.io/badge/Agent%20Magnet-0A0A0A?style=for-the-badge&logoColor=white" />
+</a>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=helinakdogan&theme=darkhub&no-frame=true&margin-w=10&title=Stars,Commits,Followers" alt="GitHub trophies" />
+<a href="https://helinakdogan-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:akdoganhelin@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=helinakdogan&theme=darkhub&no-frame=true&margin-w=12&column=3&title=Stars,Commits,Followers" />
 </p>
+
+</div>
