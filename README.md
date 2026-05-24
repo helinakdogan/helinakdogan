@@ -28,3 +28,9 @@ I am a fourth-year Computer Engineering student and Full Stack Developer special
     </picture> 
   </a>
 </p>
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=helinakdogan&theme=darkhub&no-frame=true&margin-w=10&title=Stars,Commits,Followers" alt="GitHub trophies" />
+</p>
