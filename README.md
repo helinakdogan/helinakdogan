@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Helin Akdoğan
 ### AI Engineer · Full Stack Developer
@@ -22,7 +22,7 @@ Building AI products and intelligent user experiences.
 <br/>
 <br/>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=helinakdogan&theme=darkhub&no-frame=true&margin-w=12&column=3&title=Stars,Commits,Followers" />
 </p>
 
